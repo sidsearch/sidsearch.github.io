@@ -3,7 +3,7 @@ title: "CLARA:CLARA: Clinical Report Auto-completion"
 collection: publications
 permalink: /publication/2019-WWW-CLARA
 date: 2020-1-10
-venue: 'WWw'
+venue: 'WWW'
 # paperurl: 'https://arxiv.org/pdf/1807.08820.pdf'
 # codeurl:  'https://github.com/yanboxu/RAIM'
 # videourl: 'https://www.youtube.com/watch?v=V6rmcAcMDmA'
