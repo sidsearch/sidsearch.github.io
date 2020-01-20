@@ -1,9 +1,9 @@
 ---
-title: "CLARA: Clinical Report Auto-completion"
+title: "Generating Multi-label Discrete Patient Records using Generative Adversarial Networks"
 collection: publications
-permalink: /publication/2020-WWW-CLARA
-date: 2020-1-10
-venue: 'WWW'
+permalink: /publication/2017-MLHC-MEDGAN
+date: 2017-7-10
+venue: 'MLHC'
 # paperurl: 'https://arxiv.org/pdf/1807.08820.pdf'
 # codeurl:  'https://github.com/yanboxu/RAIM'
 # videourl: 'https://www.youtube.com/watch?v=V6rmcAcMDmA'
