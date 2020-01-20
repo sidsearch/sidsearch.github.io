@@ -1,9 +1,9 @@
 ---
-title: "CLARA: Clinical Report Auto-completion"
+title: "EEG2Text: Learning to Write Medical Reports from EEG Recording"
 collection: publications
-permalink: /publication/2019-WWW-CLARA
-date: 2020-1-10
-venue: 'WWW'
+permalink: /publication/2019-MLHC-EEG2Text
+date: 2019-07-10
+venue: 'MLHC'
 # paperurl: 'https://arxiv.org/pdf/1807.08820.pdf'
 # codeurl:  'https://github.com/yanboxu/RAIM'
 # videourl: 'https://www.youtube.com/watch?v=V6rmcAcMDmA'
