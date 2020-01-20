@@ -2,7 +2,7 @@
 title: "Expert-level sleep scoring with deep neural net- works,"
 collection: publications
 permalink: /publication/2020-JAMIA-SLEEP
-date: 2020-1-10
+date: 2018-11-20
 venue: 'JAMIA'
 paperurl: 'https://academic.oup.com/jamia/article/25/12/1643/5185596'
 # codeurl:  'https://github.com/yanboxu/RAIM'
