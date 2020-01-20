@@ -7,5 +7,5 @@ main:
   - title: "CV"
     url: /files/CV-2018.pdf
     
-  - title: "Fun"
-    url: /portfolio/
+  # - title: "Fun"
+  #   url: /portfolio/
