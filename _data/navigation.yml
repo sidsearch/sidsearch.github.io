@@ -1,0 +1,11 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+    
+  - title: "CV"
+    url: /files/CV-2018.pdf
+    
+  - title: "Fun"
+    url: /portfolio/
