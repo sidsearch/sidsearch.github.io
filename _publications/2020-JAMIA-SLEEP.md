@@ -1,5 +1,5 @@
 ---
-title: "Expert-level sleep scoring with deep neural net- works,"
+title: "Expert-level sleep scoring with deep neural networks"
 collection: publications
 permalink: /publication/2020-JAMIA-SLEEP
 date: 2018-11-20

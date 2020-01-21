@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 
-
-<p style='text-align: justify;'>I'm a PhD student working with Prof. Jimeng Sun in <a href="http://www.sunlab.org/">SunLab</a> at Georgia Institute of Technology. My main research interest is statistical machine learning (ML). My current research focuses on developing deep learning algorithms learning from large scale multimodal clinical  data and generating precise predictions, which enables health care professionals to make data-driven decisions.
+<h1>Bio</h1>
+<p style='text-align: justify;'>
+I am a 4th year Computer Science PhD student at Georgia Tech, advised by Prof Jimeng Sun (<a href="http://www.sunlab.org/">SunLab</a>) at Georgia Institute of Technology. My research focuses on deep learning and its applications in building solutions for healthcare applications that can predict (sleep stage preddiction), generate (EHR data generation), understand multiple modalities(clinical trial enrollment prediction).
 </p>
-<p>  My research topics include but are not limited to Time Series Analysis, Deep Modeling. </p>
+<p>  My research topics include but are not limited to Time Series Analysis, Multimodal embedding learning, Generative Modeling. </p>
 
 
