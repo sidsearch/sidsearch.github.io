@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siddharth Biswal"
 title_separator          : "-"
 name                     : &name "Siddharth Biswal"
-description              : &description "PhD student in Machine Learning at Georgia Institute of Technology"
+description              : &description "Machine Learning Researcher"
 url                      : https://sidsearch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : " https://sidsearch.github.io "
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &siddnitr1
 facebook:
   username               :
   app_id                 :
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Siddharth Biswal"
   avatar           : 
-  bio              : "PhD student in Machine Learning at Georgia Institute of Technology"
-  location         : "Atlanta, GA"
+  bio              : "Applied Scientist at Amazon"
+  location         : "Boston, MA"
   employer         : 
   googlescholar    : 
   email            : "sbiswal7 at gatech.edu"
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sbiswal7"
+  github           : "sidsearch"
   google_plus      :
   keybase          :
   instagram        :
